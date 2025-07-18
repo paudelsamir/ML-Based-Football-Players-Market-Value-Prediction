@@ -5,6 +5,7 @@ This project predicts the market value of football players using machine learnin
 ## Live Deployment
 
 You can try out the live demo of the model [here](https://paudelsamir.streamlit.app/).
+![](demo.png)
 
 ## Features
 
